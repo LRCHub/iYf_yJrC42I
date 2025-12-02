@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "コーヒー - Album Ver.",
+  "base_artist": "友成空",
+  "createdAt": "2025-12-02T05:46:59.354899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コーヒー",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/01_コーヒー_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コーヒー・ルンバ",
+      "artist": "The Peanuts",
+      "has_synced": false,
+      "path": "select/02_コーヒー・ルンバ_The_Peanuts.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コーヒー・ルンバ",
+      "artist": "西田佐知子",
+      "has_synced": false,
+      "path": "select/03_コーヒー・ルンバ_西田佐知子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コーヒー",
+      "artist": "友成空",
+      "has_synced": false,
+      "path": "select/pl_01_コーヒー_友成空.txt"
+    }
+  ]
+}
